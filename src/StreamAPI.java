@@ -50,6 +50,7 @@ public class StreamAPI {
 		
 	//	names.stream().distinct().sorted().forEach(s->System.out.println(s));
 		
+		System.out.println("Updates are done");
 
 	}
 
